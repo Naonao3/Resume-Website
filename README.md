@@ -11,7 +11,6 @@ https://portfolio.nishimura-resume.net/
 ## 使用技術
 - フロントエンド
   - HTML
-  - CSS
   - JavaScript
   - Bootstrap
 - インフラ
