@@ -25,6 +25,7 @@ NGINXを使いサーバーを構築し、ウェブサイトのコンテンツを
 
 ## URL 
 https://portfolio.nishimura-resume.net/
+*現在AWSお解約したためこのURLからサイトを見ることはできない
 
 ## Preview
 <img width="1125" alt="スクリーンショット 2024-02-22 205431" src="https://github.com/Naonao3/resume-website/assets/97473345/be29150d-58bb-416d-a5c5-6d5c413c6e0e">
